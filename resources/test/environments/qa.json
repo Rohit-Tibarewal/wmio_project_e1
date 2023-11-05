@@ -16,7 +16,7 @@
 		},
 		{
 			"key": "password",
-			"value": "Manage243$",
+			"value": "Manage123!",
 			"type": "secret",
 			"enabled": true
 		},
@@ -76,7 +76,7 @@
 		},
 		{
 			"key": "Request1.webhookid",
-			"value": "2vACKDyMZC",
+			"value": "1hEyCg4l5K",
 			"type": "default",
 			"enabled": true
 		}
