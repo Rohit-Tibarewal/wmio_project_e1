@@ -1,9 +1,8 @@
 {
 	"info": {
-		"_postman_id": "8089b52d-918f-4301-a89e-80a8a16af418",
+		"_postman_id": "30ca8b73-5f13-4c40-808e-1bfa4df10604",
 		"name": "WM_IO_TEST",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "5524634"
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
